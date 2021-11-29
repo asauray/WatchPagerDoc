@@ -9,7 +9,7 @@ const config = {
   title: 'WatchPager Documentation',
   tagline: 'PagerDuty on Apple Watch',
   url: 'https://asauray.github.io',
-  baseUrl: '/watchpager',
+  baseUrl: '/WatchPager/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
