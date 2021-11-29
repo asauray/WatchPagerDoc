@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwatchpager_doc=self.webpackChunkwatchpager_doc||[]).push([[573],{8835:function(a){a.exports=JSON.parse('{"allTagsPath":"/WatchPagerDoc/blog/tags","slug":"/WatchPagerDoc/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/WatchPagerDoc/blog/tags/docusaurus"}')}}]);
