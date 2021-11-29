@@ -9,14 +9,14 @@ const config = {
   title: 'WatchPager Documentation',
   tagline: 'PagerDuty on Apple Watch',
   url: 'https://asauray.github.io',
-  baseUrl: '/WatchPager/',
+  baseUrl: '/WatchPagerDoc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'asauray', // Usually your GitHub org/user name.
-  projectName: 'WatchPager', // Usually your repo name.
+  projectName: 'WatchPagerDoc', // Usually your repo name.
   deploymentBranch: 'master',
-
+  trailingSlash: false,
   presets: [
     [
       '@docusaurus/preset-classic',
