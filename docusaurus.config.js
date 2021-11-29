@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'WatchPager Documentation',
   tagline: 'PagerDuty on Apple Watch',
-  url: 'https://docs.watchpager.sauray.net',
-  baseUrl: '/',
+  url: 'https://asauray.github.io',
+  baseUrl: '/watchpager',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'asauray', // Usually your GitHub org/user name.
   projectName: 'WatchPager', // Usually your repo name.
+  deploymentBranch: 'master',
 
   presets: [
     [
